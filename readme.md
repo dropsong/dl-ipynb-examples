@@ -5,3 +5,6 @@
 含有极少量的 tensorflow 1 代码😅，notebook 开头会标注，你或许可以找个 docker 镜像跑一下。
 
 每个 notebook 的文件名有编号，对应我学习它们的顺序。
+
+你可能需要下载的数据集：
+- https://www.kaggle.com/datasets/dropsong/cifar-10-batches-py
