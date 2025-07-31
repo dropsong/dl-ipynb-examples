@@ -1,3 +1,5 @@
+可以参考我的博客文章 [深度学习小记](https://dropsong.github.io/posts/eeca0305.html)，里面是学习过程的精简提要。
+
 前期使用 Python 3.11.2，你可以使用 requirements.txt 同步配置。
 
 之后的 notebook 放在 kaggle 上运行，环境有变，具体参照每个文件开头输出的版本信息，即使需要调整，应该也非常容易，工作量较小。
